@@ -16,11 +16,12 @@
 }
 
 .hero--photo {
-  max-width: 810px;
+  max-width: 720px;
   align-self: center;
 }
 
 .hero--header {
+  margin-top: 4px;
   margin-bottom: 16px;
 }
 
